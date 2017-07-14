@@ -79,5 +79,5 @@ cmake_example.add(1, 2)
 ```
 
 
-[FAQ]: http://pybind11.rtfd.io/en/latest/faq.html#working-with-ancient-visual-studio-2009-builds-on-windows
+[FAQ]: http://pybind11.rtfd.io/en/latest/faq.html#working-with-ancient-visual-studio-2009-builds-on-windows 
 [vs2015_runtime]: https://www.microsoft.com/en-us/download/details.aspx?id=48145
